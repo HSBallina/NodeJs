@@ -1,0 +1,7 @@
+{
+  "name": "3-errors",
+  "version": "0.0.0-alpha.0",
+  "scripts": {
+    "test": "mocha"
+  }
+}
